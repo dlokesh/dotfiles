@@ -1,0 +1,38 @@
+# Install brew-cask
+
+tap phinze/homebrew-cask
+install brew-cask
+
+
+# Install Casks
+
+cask install onepassword
+cask install fourk-video-downloader
+cask install airmail
+cask install android-file-transfer
+cask install dash
+cask install firefox
+cask install fitbit-connect
+cask install flux
+cask install freeMind
+cask install geektool
+cask install google-chrome
+cask install gpgtools
+cask install intellij-idea-ce
+cask install iterm2
+cask install picasa
+cask install r
+cask install skype
+cask install utorrent
+cask install virtualbox
+cask install vlc
+cask install xmind
+
+# pending
+# atom, sparrow
+# Xcode
+# Vagrant
+# DivX Player
+# Fragment
+# Kitabu
+# My Wonderful Days
