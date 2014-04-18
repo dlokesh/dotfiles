@@ -27,6 +27,7 @@ cask install utorrent
 cask install virtualbox
 cask install vlc
 cask install xmind
+cask install macvim
 
 # pending
 # atom, sparrow
