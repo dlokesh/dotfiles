@@ -61,6 +61,7 @@ install pcre
 install phantomjs
 install pkg-config
 install postgresql
+install mysql
 install qhull
 install qrencode
 install qrupdate

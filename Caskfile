@@ -7,6 +7,7 @@ install brew-cask
 # Install Casks
 
 cask install onepassword
+cask install sparrow
 cask install fourk-video-downloader
 cask install airmail
 cask install android-file-transfer
